@@ -1,0 +1,9 @@
+{
+  "name": "mover",
+  "version": "0.0.1",
+  "description": "First bot",
+  "main": "bot.js",
+  "scripts":{
+	"bot": "node bot.js"
+  }
+}
